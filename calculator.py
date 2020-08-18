@@ -16,5 +16,5 @@ def division(number_1, number_2):
 
 number_1 = int(input("enter the first number"))
 number_2 = int(input("enter the second number"))
-
+print("1 - addition\t 2 - subtraction\t 3 - multiplication\t 4 - division")
 
