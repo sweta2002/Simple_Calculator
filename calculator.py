@@ -14,4 +14,7 @@ def division(number_1, number_2):
     div = number_1 // number_2
     print("quotient is ",div)
 
+number_1 = int(input("enter the first number"))
+number_2 = int(input("enter the second number"))
+
 
